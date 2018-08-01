@@ -39,7 +39,7 @@ Not intended as a "real" project.
 | Asynchronous database access for Scala and Java http://rdbc.io
 
 | Reactiverse Reactive PostgreSQL client
-| https://github.com/reactiverse/reactive-pg-client
+| https://github.com/reactiverse/reactive-pg-client[GitHub]
 |
 | ============================================
 
