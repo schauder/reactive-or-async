@@ -1,0 +1,46 @@
+= List of Projects.
+
+[options="header,footer"]
+|=============================================
+| Name  | Source code repository | Description
+| ADBA  
+
+[small]#Asynchronous Database Access#
+| http://hg.openjdk.java.net/jdk/sandbox/file/JDK-8188051-branch/src/jdk.incubator.adba/share/classes[Repository]
+
+https://github.com/pull-vert/adba-mirror[Readonly mirror on GitHub]
+| Intended as the Future official API for asynchronous database access under development by Oracle.
+
+https://events.rainfocus.com/catalog/oracle/oow17/catalogjavaone17?search=CON1491&showEnrolled=false[Java One Slides (2017)]
+
+http://mail.openjdk.java.net/mailman/listinfo/jdbc-spec-discuss[Mailing List]
+
+| AoJ
+
+[small]#ADBA over JDBC#
+|https://github.com/oracle/oracle-db-examples/tree/master/java/AoJ[GitHub]
+| Example implementation of ADBA based on JDBC.
+Intended to allow writing actual executable code with ADBA.
+Not intended as a "real" project.
+
+| R2DBC 
+
+[small]#Reactive Relational Database Connectivity#
+| https://github.com/r2dbc[GitHub]
+| An API for reactive access to relational databases. Consisting of 
+
+* Client API
+* SPI
+* ADBA based implementation
+* PostgreSQL
+
+| RDBC
+| https://github.com/rdbc-io/rdbc[GitHub]
+| Asynchronous database access for Scala and Java http://rdbc.io
+| ============================================
+
+| Reactiverse Reactive PostgreSQL client
+| https://github.com/reactiverse/reactive-pg-client
+|
+
+
