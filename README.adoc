@@ -1,6 +1,6 @@
 = List of Projects.
 
-[options="header,footer"]
+[options="header,footer",cols="a,a,a"]
 |=============================================
 | Name  | Source code repository | Description
 | ADBA  
@@ -29,18 +29,18 @@ Not intended as a "real" project.
 | https://github.com/r2dbc[GitHub]
 | An API for reactive access to relational databases. Consisting of 
 
-* Client API
-* SPI
-* ADBA based implementation
-* PostgreSQL
+- Client API
+- SPI
+- ADBA based implementation
+- PostgreSQL
 
 | RDBC
 | https://github.com/rdbc-io/rdbc[GitHub]
 | Asynchronous database access for Scala and Java http://rdbc.io
-| ============================================
 
 | Reactiverse Reactive PostgreSQL client
 | https://github.com/reactiverse/reactive-pg-client
 |
+| ============================================
 
 
